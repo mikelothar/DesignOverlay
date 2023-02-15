@@ -1,22 +1,9 @@
 {
   "name": "DesignOverlay",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/halfpm/DesignOverlay.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/halfpm/DesignOverlay/issues"
-  },
-  "homepage": "https://github.com/halfpm/DesignOverlay#readme",
   "dependencies": {
     "lite-server": "^2.5.4"
   }
